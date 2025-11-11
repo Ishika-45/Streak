@@ -1,4 +1,11 @@
 package AdvancePattern;
+
+//12345
+//1234
+//123
+//12
+//1
+
 //Inverted half-pyramid with numbers
 public class invertNumbers {
     public static void main(String[] args) {

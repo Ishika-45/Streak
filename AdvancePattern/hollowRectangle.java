@@ -1,5 +1,10 @@
 package AdvancePattern;
 
+//*****
+//*   *
+//*   *
+//*****
+
 public class hollowRectangle {
     public static void hollow_rect(int rows, int cols){
 //        outer loop -> number of rows

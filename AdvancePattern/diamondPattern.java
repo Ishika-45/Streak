@@ -1,5 +1,14 @@
 package AdvancePattern;
 
+//           *
+//           ***
+//           *****
+//           *******
+//           *******
+//           *****
+//           ***
+//           *
+
 public class diamondPattern {
     public static void diamondPattern(int n){
 //        1st Half

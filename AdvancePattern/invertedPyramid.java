@@ -1,5 +1,10 @@
 package AdvancePattern;
 
+//   *
+//  **
+// ***
+//****
+
 //Inverted and Rotated half-pyramid pattern
 public class invertedPyramid {
     public static void rotated_halfpyramid(int n){

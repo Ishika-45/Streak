@@ -1,5 +1,12 @@
 package AdvancePattern;
 
+//             1
+//            2 2
+//            3 3 3
+//            4 4 4 4
+//            5 5 5 5 5
+
+
 public class numberPyramid {
     public static void numberPyramid(int n){
         for (int i = 1; i <= n; i++) {

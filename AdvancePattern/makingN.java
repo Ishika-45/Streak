@@ -1,5 +1,14 @@
 package AdvancePattern;
 
+//        *      *
+//        **     *
+//        * *    *
+//        *  *   *
+//        *   *  *
+//        *    * *
+//        *     **
+//        *      *
+
 public class makingN {
     public static void makingN_pattern(int lines){
         for (int rows = 1; rows <= lines; rows++) {

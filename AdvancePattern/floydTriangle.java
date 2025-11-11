@@ -1,5 +1,11 @@
 package AdvancePattern;
 
+//        1
+//        23
+//        456
+//        78910
+//        1112131415
+
 public class floydTriangle {
     public static void main(String[] args) {
         int num = 1;
