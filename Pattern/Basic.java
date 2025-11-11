@@ -1,5 +1,6 @@
 package Pattern;
 
+//N-Forest problem on coding ninjas
 public class Basic {
     public static void main(String[] args) {
         int row = 2;

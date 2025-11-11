@@ -1,4 +1,6 @@
 public class InvertedStar {
+
+    //N/2-Forest problem on coding ninjas
     public static void main(String[] args) {
         int n = 4;
         //1st Approach
