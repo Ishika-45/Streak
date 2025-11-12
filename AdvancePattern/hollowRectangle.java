@@ -24,6 +24,6 @@ public class hollowRectangle {
     }
 
     public static void main(String[] args) {
-        hollow_rect(4,5);
+        hollow_rect(4,4);
     }
 }
