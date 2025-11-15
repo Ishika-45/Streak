@@ -8,5 +8,6 @@ public class revArray {
             arr[end] = tmp;
             reverseArray(arr, start + 1, end - 1);
         }
+    }
 
 }
