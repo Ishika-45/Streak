@@ -1,4 +1,4 @@
-package Array;
+package Array.easy;
 
 public class MissingNum {
     static int missNum(int[] arr, int n){

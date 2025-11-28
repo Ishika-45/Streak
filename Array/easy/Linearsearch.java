@@ -1,4 +1,4 @@
-package Array;
+package Array.easy;
 
 public class Linearsearch {
     static int linearSearch(int[] arr, int target){

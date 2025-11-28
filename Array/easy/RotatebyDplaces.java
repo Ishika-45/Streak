@@ -1,4 +1,4 @@
-package Array;
+package Array.easy;
 
 public class RotatebyDplaces {
     static void rotateByk(int[] arr, int n, int k){

@@ -1,6 +1,6 @@
-package Array;
+package Array.easy;
 
-public class maxSubarraySum {
+public class SubarraymaxSum {
     public static void maxSum(int[] arr){
         int currSum = 0 , maxSum = Integer.MIN_VALUE;
         for (int i = 0; i < arr.length; i++) {

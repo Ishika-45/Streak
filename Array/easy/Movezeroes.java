@@ -1,4 +1,4 @@
-package Array;
+package Array.easy;
 
 public class Movezeroes {
     static void zeroesToEnd(int[] arr){

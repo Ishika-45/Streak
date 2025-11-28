@@ -1,6 +1,4 @@
-package Array;
-
-import java.util.HashSet;
+package Array.easy;
 
 public class Removeduplicates {
     static int removeDuplicate(int[] nums){
