@@ -1,4 +1,4 @@
-package Array;
+package Array.Medium;
 
 public class LongestSubarray {
     static int longestSubarr(int[] arr, int k){
