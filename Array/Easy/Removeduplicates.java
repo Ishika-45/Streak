@@ -1,4 +1,4 @@
-package Array.easy;
+package Array.Easy;
 
 public class Removeduplicates {
     static int removeDuplicate(int[] nums){

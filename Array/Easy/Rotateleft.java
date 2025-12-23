@@ -1,4 +1,4 @@
-package Array.easy;
+package Array.Easy;
 
 public class Rotateleft {
     static void rotate(int[] arr){

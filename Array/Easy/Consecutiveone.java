@@ -1,4 +1,4 @@
-package Array.easy;
+package Array.Easy;
 
 public class Consecutiveone {
     static int countOnes(int[] arr){

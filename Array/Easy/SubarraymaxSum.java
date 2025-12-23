@@ -1,4 +1,4 @@
-package Array.easy;
+package Array.Easy;
 
 public class SubarraymaxSum {
     public static void maxSum(int[] arr){

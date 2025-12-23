@@ -1,4 +1,4 @@
-package Array.easy;
+package Array.Easy;
 
 public class Numappeartwice {
     static int appearsOnce(int[] arr){

@@ -1,4 +1,4 @@
-package Array;
+package Array.Easy;
 
 public class Binarysearch {
     static int linearSearch(int[] arr, int target){
